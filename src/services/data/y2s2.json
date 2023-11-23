@@ -1,0 +1,62 @@
+{
+  "id": "y2s2",
+  "semester": "Year2 Semester2",
+  "books": [
+    {
+      "name": "Art",
+      "tb_mm": "https://drive.google.com/file/d/16KDZdEHNIllA90LbakqLp2-FR3HFWt7H/view?usp=drivesdk"
+    },
+    {
+      "name": "Educational Studies",
+      "tb_mm": "https://drive.google.com/file/d/1Uea-78CRuf4NO5JJPNQVzitcF_hg1Ogc/view?usp=drivesdk"
+    },
+    {
+      "name": "English",
+      "tb_mm": "https://drive.google.com/file/d/1ubCELA92yp6-3oKor6c4bWpoZOWyNOm6/view?usp=drivesdk"
+    },
+    {
+      "name": "ICT",
+      "tb_mm": "https://drive.google.com/file/d/1_qkT2SbXBYF6meeYk4Hyk2o2lOaORJHp/view?usp=drivesdk"
+    },
+    {
+      "name": "Life Skills",
+      "tb_mm": "https://drive.google.com/file/d/1tfnyP40cjNbnl0YcPkkbxvsop5Nw85CL/view?usp=drivesdk"
+    },
+    {
+      "name": "Local Curriculum",
+      "tb_mm": "https://drive.google.com/file/d/1UDi9-2xEhA_0YjYlZbXIv9DUiAZamqgW/view?usp=drivesdk"
+    },
+    {
+      "name": "Mathematics",
+      "tb_mm": "https://drive.google.com/file/d/1Rn6pC5Dwuisba7d-fLauboWj8jlYvNoT/view?usp=drivesdk"
+    },
+    {
+      "name": "Morality and Civics",
+      "tb_mm": "https://drive.google.com/file/d/1Z8nyrgrYdr0HDLHYhkSRqBErte6wHsoV/view?usp=drivesdk"
+    },
+    {
+      "name": "Myanmar",
+      "tb_mm": "https://drive.google.com/file/d/1l6Gxqhq4JM3w_YaBER75Jb2y_DlQiGBo/view?usp=drivesdk"
+    },
+    {
+      "name": "Physical Education",
+      "tb_mm": "https://drive.google.com/file/d/1TM6mE-yamP1PoPtHQ2H7gQ4xjx1srrYH/view?usp=drivesdk"
+    },
+    {
+      "name": "Practicum",
+      "tb_mm": "https://drive.google.com/file/d/1OFaoBYLuS92EPkwIMfWToGpqtWqWhioh/view?usp=drivesdk"
+    },
+    {
+      "name": "RPES",
+      "tb_mm": "https://drive.google.com/file/d/1SSzh16M2dh01FsbYMVYz26fnJpXAusZs/view?usp=drivesdk"
+    },
+    {
+      "name": "Science",
+      "tb_mm": "https://drive.google.com/file/d/1acbX1eHGdMA1KQqGN5lmJAp3_JvVSGHi/view?usp=drivesdk"
+    },
+    {
+      "name": "Social Studies",
+      "tb_mm": "https://drive.google.com/file/d/1sAXHXzeLoK1s7m96ICr-LOq2ge0izP7s/view?usp=drivesdk"
+    }
+  ]
+}
